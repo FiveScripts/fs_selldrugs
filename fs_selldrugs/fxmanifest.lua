@@ -1,0 +1,12 @@
+fx_version 'cerulean'
+game 'gta5'
+lua54 'yes'
+author 'Five Scripts'
+description 'Sprzedaz Narkotykow'
+
+client_script 'c.lua'
+server_script 's.lua'
+shared_script 'config.lua'
+shared_script '@ox_lib/init.lua'
+shared_script '@es_extended/locale.lua'
+shared_script 'locales/*.lua'
